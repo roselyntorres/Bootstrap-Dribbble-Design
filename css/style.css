@@ -1,0 +1,8 @@
+.btn1{
+    background: rgb(129,107,201);
+background: radial-gradient(circle, rgba(129,107,201,1) 11%, rgba(129,107,201,1) 100%);
+}
+.btn2{
+    background: rgb(123,219,154);
+background: radial-gradient(circle, rgba(123,219,154,1) 11%, rgba(123,219,154,1) 100%);
+}
