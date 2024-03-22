@@ -14,7 +14,8 @@ border-radius: 40px;
 }
 
 .h1{
- width: ;
+ max-width: 100%;
+ font-size: 5rem;
 }
 .img-fluid{
     width: 25%;
